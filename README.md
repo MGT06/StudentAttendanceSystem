@@ -150,23 +150,32 @@ Aplikasi mobile untuk manajemen absensi siswa berbasis lokasi dengan sistem mult
 ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
+<img width="289" height="651" alt="Cuplikan layar 2026-04-26 231926" src="https://github.com/user-attachments/assets/139f49c9-43c8-472c-8731-ee18f0953fe5" />
 
 ### Dashboard Murid
-![Dashboard Murid](screenshots/murid_dashboard.png)
+<img width="289" height="650" alt="Cuplikan layar 2026-04-26 232003" src="https://github.com/user-attachments/assets/c021411c-f38a-4fa4-a605-88ee38cc5bfa" />
 
 ### Absensi Murid
-![Absensi](screenshots/murid_absensi.png)
+<img width="291" height="650" alt="Cuplikan layar 2026-04-26 232012" src="https://github.com/user-attachments/assets/8f1388da-365b-4244-983b-e350c5e80a56" />
+
+### History Absensi Murid
+<img width="290" height="651" alt="Cuplikan layar 2026-04-26 232024" src="https://github.com/user-attachments/assets/a9ce5ddf-60cc-4d4a-b9c5-4513c8830a03" />
 
 ### Dashboard Guru
-![Dashboard Guru](screenshots/guru_dashboard.png)
+<img width="291" height="647" alt="Cuplikan layar 2026-04-26 232103" src="https://github.com/user-attachments/assets/308457bf-50bd-43c6-bdde-c4a07907d231" />
+
+### History Absensi (Guru)
+<img width="293" height="644" alt="Cuplikan layar 2026-04-26 232127" src="https://github.com/user-attachments/assets/bccef633-4b62-4b25-9034-f1ceaa964054" />
+
+### Status Izin (Guru)
+<img width="292" height="649" alt="Cuplikan layar 2026-04-26 232135" src="https://github.com/user-attachments/assets/8e99456b-5d59-4b3f-ab36-bbaeba916582" />
 
 ### Dashboard Orang Tua
-![Dashboard Orang Tua](screenshots/orangtua_dashboard.png)
+<img width="292" height="649" alt="Cuplikan layar 2026-04-26 232158" src="https://github.com/user-attachments/assets/d0a207ca-f49a-4eb1-87d3-f02bed287cd2" />
 
 ---
 
-## API Documentation
+# API Documentation
 
 ### Base URL
 ```
