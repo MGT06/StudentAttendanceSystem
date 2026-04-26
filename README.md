@@ -197,11 +197,11 @@ http://10.0.2.2/API_absen/api
 
 ---
 
-## Developer
+## Kontak
 
-**Marianus Given Talenta**
-- Email: grdgiven4@gmail.com
-- GitHub: [Your GitHub Profile]
+**Developer:** Given  
+**Email:** grdgiven4@gmail.com  
+**GitHub:** [@MGT06](https://github.com/MGT06)
 
 ---
 
